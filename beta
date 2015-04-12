@@ -1,0 +1,529 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <title>
+      
+        Donate -
+      
+      Peace Corps
+      </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,
+        maximum-scale=1.0, user-scalable=0">
+    <meta name="viewport" content="width=device-width">
+    <meta property="og:title" content="Donate" />
+    <meta property="og:site_name" content="US Peace Corps" />
+    <meta property="og:url" content="https://beta.peacecorps.gov/donate/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Peace Corps Volunteers help build clinics in villages, put books in schools, and improve access to nutritious food. Give today and help support projects like these." />
+    <meta property="og:image" content="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/og_default.jpg" />
+
+    
+    <link rel="stylesheet" href="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/css/compiled/donation.min.css" />
+    
+    <link rel="stylesheet" type="text/css"
+        href="//cloud.typography.com/6638272/768686/css/fonts.css" />
+    <link rel="icon" type="image/x-icon" href="https://peacecorps-prod-static.s3.amazonaws.com/favicon.ico" />
+    <noscript>
+      <link rel="stylesheet" type="text/css"
+        
+        href="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/css/compiled/lib/font-awesome/font-awesome.min.css" />
+        
+    </noscript>
+    <noscript>
+      <link href='//fonts.googleapis.com/css?family=Lato:300,400'
+            rel='stylesheet' type='text/css'>
+    </noscript>
+</head>
+<body>
+<a href="#mainContent" class="u-visually_hidden">skip navigation</a>
+
+<!--[if lte IE 8]>
+  <section>
+    <h2>Your browser is out of date.</h2>
+    <p style="color: #000;">
+      You are using an older version of Internet Explorer. For a better
+      experience, please update your browser to the latest version.
+    </p>
+    <p>
+      <a target="_blank"
+         href="http://browsehappy.com/">Learn how to update your browser.</a>
+    </p>
+  </section>
+<![endif]-->
+
+
+<div class="top_image top_image--featured wrapper"
+     style="background-image: url('https://peacecorps-prod-media.s3.amazonaws.com/lgl-home-full-v2.jpg');">
+
+  <header class="banner--dark_transparent banner--sitewide_notification
+                 u-clearfix drift_corner banner--top_panel beta_panel">
+    <a href="http://www.peacecorps.gov" class="t-single_nav t--white enclose
+        beta_panel__back_link">
+      <span class="t-title--4">
+        <i class="fa fa-angle-left icon icon--text"></i>
+        Back to Peacecorps.gov home
+      </span>
+    </a>
+    <span class="t-body--xsm beta_panel__explain">This site is in beta,
+      <a href="#beta-info" class="t-link--white"
+         aria-controls="beta-info">learn more</a></span>
+    <section id="beta-info" class="js-collapsibleItem js-collapsibleNoHide"
+             data-show-once="beta-banner">
+      <div class="blurb blurb--md">
+        <h2>This site is in beta, tell us what you think!</h2>
+        <p class="t-body--md t--white">
+          We're rebuilding, and would love to get your thoughts on what we have
+          so far. Email us at
+          <a href="mailto:donate@peacecorps.gov"
+             class="t-link--white">donate@peacecorps.gov</a> to let us know how
+           it's working for you!
+        </p>
+      </div>
+      <a href="#" class="
+          icon icon--box icon--gray
+          fa fa-times
+          drift_corner__tr
+          js-close"
+          title="Close"></a>
+    </section>
+  </header>
+  
+  
+  
+  <header class="banner banner--no_line t--white">
+    <a class="logo__img" href="/donate/">
+      <img src="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/pc_logo.png"
+           class="u-inline" alt="Peace Corps Logo" />
+    </a>
+    <div class="logo">
+      <h1 class="logo__text
+      ">
+        <a href="/donate/" class="t--white">
+          Peace Corps
+        </a>
+      </h1>
+      
+        <h2 class="t-title--2 u-inline u-block--at_sm logo__suplementary
+            separator--l separator--white separator--hide_sm"
+            style="max-width: 26em">
+          Donate</h2>
+      
+    </div>
+  </header>
+  <header class="banner banner--support banner--no_line banner--align_bottom">
+    <h2 class="t-heading--2 inset inset--lg u-align_c">
+      Join the Peace Corps in Supporting Girls&#39; Education Efforts around the World through Let Girls Learn
+    </h2>
+    <div class="u-align_c" style="margin-bottom: -3em;">
+      <a href="/donate/fund/let-girls-learn/"
+         class="button button--sm button--secondary">
+        Donate Now</a>
+    </div>
+  </header>
+  
+
+  <div class="share share--transparent js-share drift_corner__tr"
+       style="top: 3.5em;">
+    <a href="#" class="button button--share js-shareOn">
+      <span class="share__link_text">share this page</span>
+    </a>
+    <div class="share__box">
+      <a href="//www.facebook.com/sharer/sharer.php?u=http%3A//beta.peacecorps.gov/donate/"
+        target="_blank"
+        class="icon--img share__link"
+        title="Share page on Facebook">
+        <img src="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/i-facebook.svg" />
+        <span class="share__text">Facebook</span>
+      </a>
+      <a href="//twitter.com/intent/tweet?text=Every%20day%2C%20%40PeaceCorps%20Volunteers%20make%20a%20difference%20across%20the%20globe%20and%20so%20can%20you.%20Give%20now."
+        target="_blank"
+        class="icon--img share__link"
+        title="Share page on Twitter">
+        <img src="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/i-twitter.svg" />
+        <span class="share__text">Twitter</span>
+      </a>
+      <a href="mailto:?subject=Donate%20to%20the%20Peace%20Corps&amp;body=Peace%20Corps%20Volunteers%20work%20at%20the%20grassroots%20level%20toward%20sustainable%20change%20that%20lives%20on%20long%20after%20their%20service%20ends.%20They%20make%20a%20difference%20every%20day%20all%20across%20the%20globe%20and%20so%20can%20you.%20Check%20out%20donate.peacecorps.gov%20to%20learn%20more%20and%20give."
+        class="icon--img share__link"
+        title="Share through email">
+        <img src="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/i-email.svg" />
+        <span class="share__text">Email</span>
+      </a>
+      <a href="#"
+        class="share__close t-link--white">
+        <span class="share__text js-shareOff">Close
+          <img class="icon" src="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/i_arrow_up.svg" style="margin-left: 6px;" />
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="wrapper">
+  
+<nav class="main_nav section section--no_bm">
+  <ul class="main_nav__list section__content">
+    <li class="main_nav__link t-title--3">
+      <a href="#featured">
+        Featured Projects</a></li>
+    <li class="main_nav__link t-title--3">
+      <a href="/donate/projects-funds/">
+        Projects and Funds</a></li>
+    <li class="main_nav__link t-title--3">
+      <a href="/donate/faq/">
+        Donating FAQs</a></li>
+  </ul>
+</nav>
+
+
+  <main class="landing u-clearfix"
+      id="mainContent">
+  
+
+<section class=" section blurb blurb--lg">
+  <div class="t-blurb--md t--black">
+    Peace Corps Volunteers help build clinics in villages, put books in
+    schools, and improve access to nutritious food. Give today and help
+    support projects like these.
+  </div>
+</section>
+
+<section class="section inset--lg">
+  <section class="section__content section__content--lg
+      full_banner full_banner--neutral">
+    <h1 id="featured" class="t-title--1">Featured Projects</h1>
+    
+      
+      <article class="section__box section--white u-clearfix">
+        <div class="column nested_column--lg_greater_half
+            u-clearfix u-hv_center--block">
+          <img src="https://peacecorps-prod-media.s3.amazonaws.com/visiontest.jpg"
+            style="width: 100%; height: auto" />
+          <a href="/donate/project/gift-vision/"
+               class="button button--sm button--primary
+               u-hv_center--block__content">
+             Give to this Project
+          </a>
+        </div>
+        <div class="column nested_column--lg_two_lesser_half u-clearfix">
+          
+          
+            <div class="bg_img--icon section__content--sm"
+                 style="background-image: url(https://peacecorps-prod-media.s3.amazonaws.com/icons/business-grey.svg)">
+              <span class="t-icon">Business</span>
+            </div>
+          
+          <h3 class="t-heading--3">
+            <a href="/donate/project/gift-vision/">
+              The Gift of Vision
+              
+            </a>
+          </h3>
+          <p class="">
+<div class="content-block text-block">
+  
+	
+	  <p>Three-year-old Lupita had been nearly blind for all of her young life. While there was a surgery that could restore her vision, her family did not have the money to pay for it. It was children like Lupita who inspired Peace Corps Volunteer Matt Pickler ...</p>
+
+	
+  
+</div>
+</p>
+          <a class="t-single_nav t-nom"
+              href="/donate/project/gift-vision/">
+            Read Their Story
+            <i class="fa fa-angle-right icon icon--text"></i>
+          </a>
+        </div>
+      </article>
+    
+      
+      <article class="section__box section--white u-clearfix">
+        <div class="column nested_column--lg_greater_half
+            u-clearfix u-hv_center--block">
+          <img src="https://peacecorps-prod-media.s3.amazonaws.com/Philippines_AShelterForFamilies_1093x801.JPG"
+            style="width: 100%; height: auto" />
+          <a href="/donate/project/cottage-model-housing-program/"
+               class="button button--sm button--primary
+               u-hv_center--block__content">
+             Give to this Project
+          </a>
+        </div>
+        <div class="column nested_column--lg_two_lesser_half u-clearfix">
+          
+          
+            <div class="bg_img--icon section__content--sm"
+                 style="background-image: url(https://peacecorps-prod-media.s3.amazonaws.com/icons/women-grey.svg)">
+              <span class="t-icon">Women &amp; Gender</span>
+            </div>
+          
+          <h3 class="t-heading--3">
+            <a href="/donate/project/cottage-model-housing-program/">
+              A Shelter for Families
+              
+            </a>
+          </h3>
+          <p class="">
+<div class="content-block text-block">
+  
+	
+	  <p>The staff at the Haven for Women and Girls--a shelter for Filipino women who have experienced gender-based violence--knew that many of the women who needed their help were not alone: They often had young children who needed care, too. This was true ...</p>
+
+	
+  
+</div>
+</p>
+          <a class="t-single_nav t-nom"
+              href="/donate/project/cottage-model-housing-program/">
+            Read Their Story
+            <i class="fa fa-angle-right icon icon--text"></i>
+          </a>
+        </div>
+      </article>
+    
+      
+      <article class="section__box section--white u-clearfix">
+        <div class="column nested_column--lg_greater_half
+            u-clearfix u-hv_center--block">
+          <img src="https://peacecorps-prod-media.s3.amazonaws.com/FeaturedProjects_Hayde_EquippingAClassroom_1093x801.jpg"
+            style="width: 100%; height: auto" />
+          <a href="/donate/project/equipping-classroom-empower-education/"
+               class="button button--sm button--primary
+               u-hv_center--block__content">
+             Give to this Project
+          </a>
+        </div>
+        <div class="column nested_column--lg_two_lesser_half u-clearfix">
+          
+          
+            <div class="bg_img--icon section__content--sm"
+                 style="background-image: url(https://peacecorps-prod-media.s3.amazonaws.com/icons/education-grey.svg)">
+              <span class="t-icon">Education</span>
+            </div>
+          
+          <h3 class="t-heading--3">
+            <a href="/donate/project/equipping-classroom-empower-education/">
+              Empowering a Classroom
+              
+            </a>
+          </h3>
+          <p class="">
+<div class="content-block text-block">
+  
+	
+	  <p>Elisenia is a first-year English teacher in a small town in southern Panama. She and one other teacher here are responsible for teaching English to 170 primary school students. They teach without a dedicated classroom or any permanent place to keep ...</p>
+
+	
+  
+</div>
+</p>
+          <a class="t-single_nav t-nom"
+              href="/donate/project/equipping-classroom-empower-education/">
+            Read Their Story
+            <i class="fa fa-angle-right icon icon--text"></i>
+          </a>
+        </div>
+      </article>
+    
+  </section>
+</section>
+
+<section class="section">
+  <section class="section__content section__content--lg inset--lg">
+    <h1 class="t-title--1">Projects &amp; Funds</h1>
+    <div class="u-hv_center--block bg_img--centered bg_img--banner"
+         style="background-image: url('https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/img/funds-background.png');">
+      <a href="/donate/projects-funds/"
+         class="button button--sm button--primary u-hv_center--block__content">
+         Explore and Give
+      </a>
+    </div>
+    <div class="u-hv_center--block">
+      <p class="t-body--md">Explore Volunteer Projects, Country and Issue Funds,
+        and other ways to support the Peace Corps.</p>
+    </div>
+  </section>
+</section>
+
+<section class="section inset--lg">
+  <div class="section__content section__content--lg
+      full_banner full_banner--neutral">
+    <h1 class="t-title--1">About Donating</h1>
+    <div class="blurb blurb--sm">
+      <h2 class="t-blurb--md t--black">
+       100% of your tax-deductible donation to the Peace Corps Partnership Program goes directly towards funding volunteer projects around the world.</h2>
+    </div>
+    <aside>
+      <h2 class="t-title--2 u-pullr"
+          ><a href="/donate/faq/">Donating FAQs</h2></a></h2>
+    </aside>
+  </div>
+</section>
+
+  </main>
+
+  <footer class="section section__content section__content--lg">
+    <div class="inset inset--lg u-clearfix">
+      <section class="column nested_column--lg_fourth">
+        <h2 class="t-title--2">Donate</h2>
+        <p class="t-body--md">Part of the <a href="https://beta.peacecorps.gov/donate">peacecorps.gov</a> Beta.</p>
+        <hr class="separator--h" />
+        <nav class="sub_nav sub_nav--vertical">
+          <h3 class="t-title--3 t--gray--2">Projects and Funds</h3>
+          <ul class="u-unmarked_list">
+            <li class="sub_nav__link">
+              <a href="/donate/projects-funds/#issue">By Issue</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="/donate/projects-funds/#country">By Country</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="/donate/projects-funds/#volunteer">By Volunteer</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="/donate/projects-funds/memorial/">Memorial Funds</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="/donate/fund/peace-corps/">Peace Corps Fund</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="https://letgirlslearn.peacecorps.gov">Let Girls Learn</a>
+            </li>
+          </ul>
+        </nav>
+      </section>
+      <section class="column nested_column--lg_greater_fourth
+          o-nested_column--sevens
+          u-clearfix"
+          style="margin-right: 0;">
+        <h2 class="t-title--2">peacecorps.gov</h2>
+        <p class="t-body--md">All links return to peacecorps.gov.</p>
+        <hr class="separator--h" />
+        <nav class="column nested_column--fourth sub_nav sub_nav--vertical">
+          <h3 class="t-title--3 t--gray--2">Get Involved</h3>
+          <ul class="u-unmarked_list">
+            <li class="sub_nav__link">
+              <a href="http://donate.peacecorps.gov">
+                Donate</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="http://passport.peacecorps.gov">
+                Peace Corps Passport</a>
+            </li>
+          </ul>
+          <h3 class="t-title--3 t--gray--2" style="margin-top:1.5em;">Resources</h3>
+          <ul class="u-unmarked_list">
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/resources/returned/home/">
+                Returned Volunteers</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/resources/faf/">
+                Family &amp; Friends</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/wws/">Teachers</a>
+            </li>
+          </ul>
+        </nav>
+        <nav class="column nested_column--fourth sub_nav sub_nav--vertical">
+          <h3 class="t-title--3 t--gray--2">Join</h3>
+          <ul class="u-unmarked_list">
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/apply/?from=applyby">Apply</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/volunteer/learn/meet/">
+                Talk to a recruiter</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/volunteer/learn/meet/events/">
+                Attend an event</a>
+            </li>
+            <li class="sub_nav__link">
+              <a href="http://www.peacecorps.gov/openings/?from=hpb">
+                Volunteer Openings</a>
+            </li>
+          </ul>
+        </nav>
+        <nav class="column nested_column_half sub_nav sub_nav--vertical">
+          <h3 class="t-title--3 t--gray--2">Contact</h3>
+          <ul class="u-unmarked_list">
+            <li class="sub_nav__link sub_nav__link--condensed">Peace Corps<br>
+              Paul D. Coverdell Peace Corps Headquarters<br>
+              1111 20th Street, NW<br>
+              Washington, D.C. 20526</li>
+            <li class="sub_nav__link">Phone: 855-855-1961</li>
+            <li class="sub_nav__link">
+              <a href="https://www.peacecorps.gov/contact/quesandcom/">
+                Email Form</a>
+            </li>
+          </ul>
+        </nav>
+      </section>
+      <nav class="sub_nav sub_nav--horizontal">
+        <ul class="u-unmarked_list">
+          <li class="sub_nav__link">
+            <a class="t-body--xsm"
+               href="http://www.peacecorps.gov/about/policies/general/">
+              Privacy Policy</a>
+          </li>
+          <li class="sub_nav__link">
+            <a class="t-body--xsm"
+               href="http://www.peacecorps.gov/about/policies/foia/">
+              Freedom of Information</a>
+          </li>
+        </ul>
+        <p>You are visiting the new experimental
+        <a href="https://beta.peacecorps.gov/donate">peacecorps.gov</a>.
+          We'd love your feedback: <a href="mailto:donate@peacecorps.gov">
+            donate@peacecorps.gov</a></p>
+      </nav>
+    </div>
+  </footer>
+</div>
+
+<script type="text/javascript">
+(function() {
+  var css = document.createElement('link');
+  
+  css.href =
+    'https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/css/compiled/lib/font-awesome/font-awesome.min.css';
+  
+  css.rel = 'stylesheet';
+  css.type = 'text/css';
+  document.getElementsByTagName('head')[0].appendChild(css);
+})();
+WebFontConfig = {
+  google: { families: [ 'Lato:300,400:latin' ] }
+};
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
+
+
+<script src="https://peacecorps-prod-static.s3.amazonaws.com/peacecorps/js/compiled/peacecorps-donation.min.js">
+</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-17096306-6', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+
+
+
+
+</body>
+</html>
