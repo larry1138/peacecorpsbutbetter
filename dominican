@@ -1,75 +1,54 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 
-
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-
-
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-
-
 
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-
 	
-
 	<title>Peace Corps in DR</title>
 
-	
-
 	<!-- Stylesheets: DO NOT EDIT -->
-
+	
 	<link rel="stylesheet" href="/styles/master.css" type="text/css" />
-
+	
 	<!--[if IE 7]>
-
+	
 	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
-
+	
 	<![endif]-->
-
+	
 	<!--[if IE 6]>
-
+	
 	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
-
+	
 	<![endif]-->
-
+	
 	<!--[if LT IE 6]>
-
+	
 	<link rel="stylesheet" href="/styles/ie55.css" type="text/css" />
-
+	
 	<![endif]-->
-
-
-    
-
+	
 	<!-- scripts for photo gallery: DO NOT EDIT -->
-
+	
 	<script type="text/javascript" src="/scripts/global.js"></script>
-
+	
 	<script type="text/javascript" src="/scripts/gallery.js"></script>
-
+	
     <script type="text/javascript" src="/scripts/toggle.js"></script>
-
-    
 
 </head>
 
 <body id="section-front"  >
 
-
-
-
-
 	<div id="page">
-
-	
-
 		<!--<div id="learnmore">
-
+		
 	<p><a href="http://www.peacecorps.gov/">Learn More About Peace Corps</a></p>
-
+	
 </div>-->
 
 <style type="text/css">
@@ -77,28 +56,22 @@
 <!--
 
 	#masthead p span {
-
+	
 		background: url("/img/hdr_title.jpg") no-repeat; 
-
+		
 		height: 100%;
-
+		
 		left: 0;
-
+		
 		position: absolute;
-
+		
 		top: 0;
-
+		
 		width: 100%;
-
 	}
-
 -->
 
 </style>
-
-
-
-
 
 <div id="masthead">
 
@@ -109,9 +82,6 @@
 	<a href="?es">en español</a></b></p>
 
 </div>
-
-
-		
 
 		<div id="content-wrap">
 
@@ -131,16 +101,10 @@
 
 				<div id="copy"> <link href="float:right;" rel="stylesheet" type="text/css" />
 
-
-
-
-
-
 				<!-- CHANGE NAME OF THE COUNTRY -->
 
 				<h1>Peace Corps in the Dominican Republic</h1>
 
-				
 
 				<!-- INTRODUCTORY TEXT -->
 
@@ -209,8 +173,6 @@
 
 				<!-- /copy -->
 
-			
-
 			</div>
 
 			<!-- / main -->
@@ -228,7 +190,6 @@
 
 </div>
 			
-
 		</div>
 
 		<!-- / content -->
@@ -237,13 +198,9 @@
 
 		<!-- / content wrap -->
 
-
-
 	</div>
 
 	<!-- / page -->
-
-	
 
 	<div id="footer">
 
@@ -259,15 +216,8 @@
 
 	<!-- /footer -->
 
-
-
 </body>
 
 </html>
-
-
-
-
-
 
 	<!-- / footer -->
